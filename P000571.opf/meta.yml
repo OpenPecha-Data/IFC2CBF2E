@@ -1,5 +1,7 @@
 id: P000571
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W00KG04059
   title: རི་བོ་དགེ་ལྡན་པའི་ཆོས་སྤྱོད་ཁག་གཅིག་གི་འགྲེལ་བ།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 202
       base_file: v001.txt
-ebook_metadata:
-  title: རི་བོ་དགེ་ལྡན་པའི་ཆོས་སྤྱོད་ཁག་གཅིག་གི་འགྲེལ་བ།
-  author: ''
-  sku: P000571
-  cover: cover.jpg
-  layers:
-  - pagination
